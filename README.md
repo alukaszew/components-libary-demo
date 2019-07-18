@@ -13,5 +13,5 @@ With npm
 
 ```bash
 npm install
-npm run start:storybook
+npm run storybook
 ```
